@@ -1,9 +1,13 @@
 <?php
- $url = $_GET['url'];
+  require_once('connection.php');
 
- echo $url;
+  if (isset($_GET['controller']) && isset($_GET['action'])) {
+    $controller = $_GET['controller'];
+    $action = $_GET['action'];
+  } else {
+    $controller = 'pages';
+    $action = 'home';
+  }
 
-// require 'controllers/' . $url . '.php';
- //$controller = new $url
+  require_once('views/layout.php');
  ?>
-1
