@@ -15,12 +15,12 @@ It is also built using the latest stable version of nodejs
 
 ## Key Features
 
-1.Fast Deployment 
-2.Modules creation and intergration
-3.Coder Friendly
-4.Top of the line Security 
-5.Fast Response times 
-6.Server Freindly
+1. Fast Deployment 
+2. Modules creation and intergration
+3. Coder Friendly
+4. Top of the line Security 
+5. Fast Response times 
+6. Server Freindly
 
 
 
