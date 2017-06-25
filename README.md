@@ -1,4 +1,4 @@
-														# Orbital-Framework
+# Orbital-Framework
 
 Hello my name is Joseph Rymer and I am the creator of the *Orbital Framework* 
 
